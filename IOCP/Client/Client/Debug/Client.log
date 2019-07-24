@@ -1,0 +1,7 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  Client.cpp
+d:\tcp_ip\source\iocp\fixme_degiyamiocp-master\degiyamiocp_re1\client\client\client.cpp(47): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 'inet_addr' 선언을 참조하십시오.
+d:\tcp_ip\source\iocp\fixme_degiyamiocp-master\degiyamiocp_re1\client\client\client.cpp(50): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1849): note: 'inet_ntoa' 선언을 참조하십시오.
+  Client.vcxproj -> D:\TCP_IP\source\iocp\fixme_degiyamIOCP-master\DegiyamIOCP_Re1\Client\Client\Debug\Client.exe

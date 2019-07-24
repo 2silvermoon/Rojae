@@ -1,0 +1,4 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  PacketHandleReq.cpp
+CircularQueue.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  IOCPServer.vcxproj -> D:\TCP_IP\source\iocp\fixme_degiyamIOCP-master\DegiyamIOCP_Re1\IOCPServer\IOCPServer\Debug\IOCPServer.exe
