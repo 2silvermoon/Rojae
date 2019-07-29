@@ -11,7 +11,7 @@ __IOCP server using cpp__
 
 __webServer using boost lib__
 
-opensource인 boost의 asio를 사용하여 웹 서버를 구현함.
+opensource인 boost의 asio를 사용하여 웹 서버를 구현함. (boost 설치 및 추가 필요)
 
 현재는 localhost의 port를 통해서 index 페이지 띄우기까지 가능.
 
