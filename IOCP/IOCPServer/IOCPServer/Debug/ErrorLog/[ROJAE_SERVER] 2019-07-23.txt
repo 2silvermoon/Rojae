@@ -1,4 +1,0 @@
-[07.23 22:57:07] InitialAllData / Initialize OK : Log System
-[07.23 22:57:07] InitialAllData / Initialize OK : Network
-[07.23 22:57:07] InitialAllData / Initialize OK : Thread
-[07.23 22:57:07] StartServer / Initialize : Success

@@ -1,7 +1,0 @@
-﻿  stdafx.cpp
-  CircularQueue.cpp
-d:\tcp_ip\source\iocp\fixme_degiyamiocp-master\degiyamiocp_re1\common\circularqueue.cpp(103): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "stdafx.h"'을(를) 소스에 추가하시겠습니까?
-  DatabaseFunction.cpp
-d:\tcp_ip\source\iocp\fixme_degiyamiocp-master\degiyamiocp_re1\iocpserver\iocpserver\databasefunction.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
-  IOCPServerHost.cpp
-  코드를 생성하고 있습니다...

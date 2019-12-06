@@ -1,26 +1,17 @@
 # NFC Project
-__IOCP server using cpp__
+__강원대학교 학생 무인 인증시스템 구현__
 
-오픈소스를 학습하면서 수정 및 서버 구현
+오픈소스 및 직접 작성한 코드를 기반으로 구현한 NFC 학생 인증 시스템
 
-현재는 다중 사용자를 받아들이는 Database까지 연동 가능.
+해당 프로젝트는 Java Spring boot와 연동하여 진행하였습니다.
 
-추후에 web server와 연동 예정.
+이후에 삭제 및 수정을 거친 이후에 커밋 예정
 
-------------------------------------
+현재 cafe24의 데이터베이스를 사용하였습니다.
 
-__webServer using boost lib__
-
-opensource인 boost의 asio를 사용하여 웹 서버를 구현함. (boost 설치 및 추가 필요)
-
-현재는 localhost의 port를 통해서 index 페이지 띄우기까지 가능.
-
-추후에 dataServer <-> database 를 통하여 사용자 인증 추가 예정.
-
-------------------------------------
+Android <---> Spring boot <---> || php || <-------> || Database ||
+ 
+----------------------------------------------------------------------
 
 아직 나머지 부분은 미구현.
 
-<div>
-<img src="https://user-images.githubusercontent.com/37291245/61940052-a1411980-afcf-11e9-9828-fdb00f019dc5.PNG">
-</div>
