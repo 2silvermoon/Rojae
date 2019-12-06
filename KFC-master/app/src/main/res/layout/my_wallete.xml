@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:livebutton="http://schemas.android.com/tools"
+    android:background="@drawable/bg_button"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        card_view:cardBackgroundColor="@android:color/transparent"
+        card_view:cardCornerRadius="5dp"
+        card_view:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtccc"
+                android:text="Current Wallete Balance (Rs.): "
+                android:textColor="@color/colorWhite"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/txtWalleteBal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtccc"
+                android:textAlignment="center"
+                android:text="00"
+                android:textColor="@color/colorWhite"
+                android:textSize="30sp" />
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+    <ru.katso.livebutton.LiveButton
+        android:id="@+id/btnAddMoney"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/layLinear"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:text="Add Money"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        livebutton:backgroundColor="#2a4187"
+        livebutton:corners="8dp"
+        livebutton:normalHeight="4dp"
+        livebutton:pressedHeight="1dp"
+        livebutton:shadowColor="#37de00" />
+
+</RelativeLayout>

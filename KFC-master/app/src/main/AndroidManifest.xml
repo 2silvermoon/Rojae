@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.the43appmart.nfc.kfc">
+
+    <uses-feature android:name="android.hardware.nfc" android:required="false"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.NFC"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.the43appmart.nfc.kfc.DustBin.LoginActivity" />
+        <activity android:name="com.the43appmart.nfc.kfc.DustBin.RegisterActivity"/>
+        <activity android:name="com.the43appmart.nfc.kfc.DustBin.LoginFingerprint"/>
+        <activity android:name="com.the43appmart.nfc.kfc.NFC_Receive_detail"/>
+
+        <activity
+            android:name="com.the43appmart.nfc.kfc.DustBin.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.the43appmart.nfc.kfc.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.the43appmart.nfc.kfc.LoadingActivity"/>
+
+        <activity
+            android:name="com.the43appmart.nfc.kfc.NFCSendPreview"
+            android:parentActivityName="com.the43appmart.nfc.kfc.DustBin.MainActivity" />
+        <activity android:name="com.the43appmart.nfc.kfc.NFC_Send">
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.the43appmart.nfc.kfc.NFC_Receive" />
+        <activity android:name="com.the43appmart.nfc.kfc.SendSuccess"
+            android:parentActivityName="com.the43appmart.nfc.kfc.DustBin.MainActivity"/>
+    </application>
+
+</manifest>

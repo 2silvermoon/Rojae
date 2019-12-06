@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name = "major">
+        <item>경영대학</item>
+        <item>농업생명과학대학</item>
+        <item>동물생명과학대학</item>
+        <item>문화예술·공과대학</item>
+        <item>사범대학</item>
+        <item>사회과학대학</item>
+        <item>산림환경과학대학</item>
+        <item>수의과대학</item>
+        <item>약학대학</item>
+        <item>간호대학</item>
+        <item>의생명과학대학</item>
+        <item>인문대학</item>
+        <item>자연과학대학</item>
+        <item>IT대학</item>
+        <item>미래융합가상학과</item>
+        <item>춘천자유전공학부</item>
+        <item>연계전공</item>
+    </string-array>
+
+</resources>
