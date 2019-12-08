@@ -45,16 +45,15 @@ NFC 통신을 사용할때 데이터를 읽어, 이를 서버에 전송을 도�
 
 
 회원가입
-![Screenshot_20191115-025043](https://user-images.githubusercontent.com/41769568/70390953-28d57500-1a13-11ea-9fd4-d93f0bce11d7.png)
+<img src="https://user-images.githubusercontent.com/41769568/70390953-28d57500-1a13-11ea-9fd4-d93f0bce11d7.png" width="230" height="400"></img>
 
 
 로딩화면
-![Screenshot_20191115-024951](https://user-images.githubusercontent.com/41769568/70390939-11968780-1a13-11ea-9176-239e89b1d06c.png)
+<img src="https://user-images.githubusercontent.com/41769568/70390939-11968780-1a13-11ea-9176-239e89b1d06c.png" width="230" height="400"></img>
 
 
 메인화면 및 NFC통신
-![Screenshot_20191115-025015](https://user-images.githubusercontent.com/41769568/70390948-1f4c0d00-1a13-11ea-97e4-4a1b3af27ddc.png)
-![Screenshot_20191115-025021](https://user-images.githubusercontent.com/41769568/70390949-207d3a00-1a13-11ea-8721-3bf4c8c04fa2.png)
-
+<img src="https://user-images.githubusercontent.com/41769568/70390948-1f4c0d00-1a13-11ea-97e4-4a1b3af27ddc.png" width="230" height="400"></img>
+<img src="https://user-images.githubusercontent.com/41769568/70390949-207d3a00-1a13-11ea-8721-3bf4c8c04fa2.png" width="230" height="400"></img>
 
 
