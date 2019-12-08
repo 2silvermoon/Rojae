@@ -39,7 +39,8 @@ NFC 통신을 사용할때 데이터를 읽어, 이를 서버에 전송을 도�
 ----------------------------------------------------------------------
 
 로그인
-![Screenshot_20191115-025104](https://user-images.githubusercontent.com/41769568/70390928-f3308c00-1a12-11ea-96bb-adfcc4108e25.png)
+<img src="https://user-images.githubusercontent.com/41769568/70390928-f3308c00-1a12-11ea-96bb-adfcc4108e25.png" width="200" height="300"></img>
+
 ![Screenshot_20191115-025003](https://user-images.githubusercontent.com/41769568/70390929-f461b900-1a12-11ea-8f8b-b9f34fea0b39.png)
 
 
