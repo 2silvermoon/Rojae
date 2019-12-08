@@ -34,6 +34,7 @@ https://github.com/2silvermoon/Nakji
 ----------------------------------------------------------------------
 
 # 다이어그램
+
 __Android app & Server System__
 ![diagram2](https://user-images.githubusercontent.com/41769568/70391157-689d5c00-1a15-11ea-9585-ebe618ce7830.JPG)
 ----------------------------------------------------------------------
