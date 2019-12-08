@@ -1,5 +1,6 @@
-# NFC Project
-##__강원대학교 학생 무인 인증시스템 구현__
+# 근거리 무선 통신 기반의 학생 무인 인증 시스템
+
+__강원대학교 학생 무인 인증시스템 구현__
 
 ## 개요
 >학생들은 평일 야간 및 주말, 휴일에 학교에 출입하려면 출입 인증이 된 학생증이 필요하다.<br>
@@ -7,24 +8,22 @@
 학생증은 안들고다녀도 휴대폰은 들고 다니니까 학생증 기능을 하는 것을 만들고자 한다.<br>
 
 ## 역할
-> API를 사용한 Android app 개발
-> Spring boot Server 연결
-> NFC 센서 프로그래밍
+> API를 사용한 Android app 개발<br>
+> Spring boot Server 연결<br>
+> NFC 센서 프로그래밍<br>
 
 ## 기술 스택
 >MariaDB, Android Studio, Java, PHP
 
 ## 결과
-> Android application 개발
-> API를 사용한 NFC, fingerprint의 사용
-> fingerprint를 하기 위한 sharedpreferences login
-> 부족함을 깨닫고 이후에 삭제 및 수정을 거친 이후에 커밋 예정
+> Android application 개발<br>
+> API를 사용한 NFC, fingerprint의 사용<br>
+> fingerprint를 하기 위한 sharedpreferences login<br>
+> 부족함을 깨닫고 이후에 삭제 및 수정을 거친 이후에 커밋 예정<br>
 
 ## KFC_master
 >KFC-master는 NFC System을 제공하기 위해서 사용하는 어플리케이션이다.<br>
-이는 사용자 로그인, 회원가입, NFC 서버 통신 및 데이터 전송이 가능하도록 한다.
-
-# NFC를 이용한 학생 인증 시스템
+이는 사용자 로그인, 회원가입, NFC 서버 통신 및 데이터 전송이 가능하도록 한다.<br>
 
 ## 기간
 >2019년 7월 말 ~ 2019년 11월 19일
