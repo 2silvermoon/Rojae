@@ -15,24 +15,24 @@ __강원대학교 학생 무인 인증시스템 구현__
 ## 기술 스택
 >MariaDB, Android Studio, Java, PHP
 
+## KFC_master
+>KFC-master는 NFC System을 제공하기 위해서 사용하는 어플리케이션이다.<br>
+이는 사용자 로그인, 회원가입, NFC 서버 통신 및 데이터 전송이 가능하도록 한다.<br>
+
+## KFC_Reader
+>KFC-Reader는 NFC System을 사용하기 위해서 KFC-master를 사용하는 사용자가<br>
+NFC 통신을 사용할때 데이터를 읽어, 이를 서버에 전송을 도와주는 데모 어플리케이션이다.<br>
+이를 사용하여 굳이 NFC Reader기가 존재하지 않아도 어떠한 작동을 하는 지 확인할 수 있다.<br>
+
 ## 결과
 > Android application 개발<br>
 > API를 사용한 NFC, fingerprint의 사용<br>
 > fingerprint를 하기 위한 sharedpreferences login<br>
 > 부족함을 깨닫고 이후에 삭제 및 수정을 거친 이후에 커밋 예정<br>
 
-## KFC_master
->KFC-master는 NFC System을 제공하기 위해서 사용하는 어플리케이션이다.<br>
-이는 사용자 로그인, 회원가입, NFC 서버 통신 및 데이터 전송이 가능하도록 한다.<br>
-
 ## 기간
 >2019년 7월 말 ~ 2019년 11월 19일
 
-
-## KFC_Reader
->KFC-Reader는 NFC System을 사용하기 위해서 KFC-master를 사용하는 사용자가<br>
-NFC 통신을 사용할때 데이터를 읽어, 이를 서버에 전송을 도와주는 데모 어플리케이션이다.<br>
-이를 사용하여 굳이 NFC Reader기가 존재하지 않아도 어떠한 작동을 하는 지 확인할 수 있다.<br>
 
 ----------------------------------------------------------------------
 # Server side
