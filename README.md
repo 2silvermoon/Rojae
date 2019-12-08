@@ -36,6 +36,7 @@ https://github.com/2silvermoon/Nakji
 # 다이어그램
 __Android app & Server System__
 ![diagram2](https://user-images.githubusercontent.com/41769568/70391157-689d5c00-1a15-11ea-9585-ebe618ce7830.JPG)
+----------------------------------------------------------------------
 
 __Android app work__
 ![diagram](https://user-images.githubusercontent.com/41769568/70390882-8c12d780-1a12-11ea-9379-86aaf70d6717.png)
@@ -50,15 +51,18 @@ __로그인__
 <img src="https://user-images.githubusercontent.com/41769568/70390928-f3308c00-1a12-11ea-96bb-adfcc4108e25.png" width="230" height="400"></img>
 <img src="https://user-images.githubusercontent.com/41769568/70390929-f461b900-1a12-11ea-8f8b-b9f34fea0b39.png" width="230" height="400"></img>
 
+----------------------------------------------------------------------
 
 __회원가입__
 
 <img src="https://user-images.githubusercontent.com/41769568/70390953-28d57500-1a13-11ea-9fd4-d93f0bce11d7.png" width="230" height="400"></img>
+----------------------------------------------------------------------
 
 
 __로딩화면__
 
 <img src="https://user-images.githubusercontent.com/41769568/70390939-11968780-1a13-11ea-9176-239e89b1d06c.png" width="230" height="400"></img>
+----------------------------------------------------------------------
 
 
 __메인화면 및 NFC통신__
