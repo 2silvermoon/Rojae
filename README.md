@@ -33,4 +33,4 @@ NFC 통신을 사용할때 데이터를 읽어, 이를 서버에 전송을 도�
 
 다이어그램
 
-![1](https://github.com/2silvermoon/Rojae/issues/1#issue-534549004)
+![diagram](https://user-images.githubusercontent.com/41769568/70390818-eb241c80-1a11-11ea-9a19-73408bc9c4ba.png)
