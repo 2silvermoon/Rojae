@@ -33,4 +33,4 @@ NFC 통신을 사용할때 데이터를 읽어, 이를 서버에 전송을 도�
 
 다이어그램
 
-![diagram](https://user-images.githubusercontent.com/41769568/70390818-eb241c80-1a11-11ea-9a19-73408bc9c4ba.png)
+![diagram](https://user-images.githubusercontent.com/41769568/70390882-8c12d780-1a12-11ea-9379-86aaf70d6717.png)
