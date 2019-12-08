@@ -31,28 +31,33 @@ NFC 통신을 사용할때 데이터를 읽어, 이를 서버에 전송을 도�
  
 ----------------------------------------------------------------------
 
-다이어그램
+# 다이어그램
 
 ![diagram](https://user-images.githubusercontent.com/41769568/70390882-8c12d780-1a12-11ea-9379-86aaf70d6717.png)
 
 
 ----------------------------------------------------------------------
 
-로그인
+# 실행화면
+
+__로그인__
 
 <img src="https://user-images.githubusercontent.com/41769568/70390928-f3308c00-1a12-11ea-96bb-adfcc4108e25.png" width="230" height="400"></img>
 <img src="https://user-images.githubusercontent.com/41769568/70390929-f461b900-1a12-11ea-8f8b-b9f34fea0b39.png" width="230" height="400"></img>
 
 
-회원가입
+__회원가입__
+
 <img src="https://user-images.githubusercontent.com/41769568/70390953-28d57500-1a13-11ea-9fd4-d93f0bce11d7.png" width="230" height="400"></img>
 
 
-로딩화면
+__로딩화면__
+
 <img src="https://user-images.githubusercontent.com/41769568/70390939-11968780-1a13-11ea-9176-239e89b1d06c.png" width="230" height="400"></img>
 
 
-메인화면 및 NFC통신
+__메인화면 및 NFC통신__
+
 <img src="https://user-images.githubusercontent.com/41769568/70390948-1f4c0d00-1a13-11ea-97e4-4a1b3af27ddc.png" width="230" height="400"></img>
 <img src="https://user-images.githubusercontent.com/41769568/70390949-207d3a00-1a13-11ea-8721-3bf4c8c04fa2.png" width="230" height="400"></img>
 
