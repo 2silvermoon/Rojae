@@ -48,7 +48,7 @@ __Android app & Server System__
 ----------------------------------------------------------------------
 
 __Android app work__
-![diagram](https://user-images.githubusercontent.com/41769568/70390882-8c12d780-1a12-11ea-9379-86aaf70d6717.png)
+![diagram](https://user-images.githubusercontent.com/41769568/70422147-984c7280-1aae-11ea-93af-5b3edd3d987d.JPG)
 
 
 ----------------------------------------------------------------------
